@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MdAd:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MdAd</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SPPanAdmin-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MdAd:war exploded" />
+    </root>
+  </artifact>
+</component>
